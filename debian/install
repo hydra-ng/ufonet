@@ -1,0 +1,7 @@
+botnet usr/share/ufonet/
+core usr/share/ufonet/
+data usr/share/ufonet/
+docs usr/share/ufonet/
+maps usr/share/ufonet/
+ufonet.py usr/share/ufonet/
+setup.py usr/share/ufonet/

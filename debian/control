@@ -1,0 +1,33 @@
+Source: ufonet
+Section: unknown
+Priority: optional
+Maintainer: Joe <joe@rstrike.my.id>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: https://github.com/epsylon/ufonet
+Vcs-Browser: https://github.com/pwnpine/ufonet
+Vcs-Git: https://github.com/pwnpine/ufonet.git
+
+Package: ufonet
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ libpython3.11-dev,
+ python3-pycurl,
+ python3-whois,
+ python3-cryptography,
+ python3-requests,
+ libgeoip1,
+ libgeoip-dev,
+ python-is-python3,
+ python3-duckpy,
+ python3-geoip,
+ python3-requests,
+ python3-pygeoip,
+ python3-scapy,
+ python3-pycryptodome,
+ ${shlibs:Depends},
+ ${misc:Depends},
+Description: UFONet - Denial Service Toolkit.

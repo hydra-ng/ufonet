@@ -1,3 +1,10 @@
+ufonet (1.9-2) UNRELEASED; urgency=medium
+
+  * Change Target dir. /usr/local/Library/* make sure /usr/share/* still clean.
+  * Fix missing. Fix missing execution script.
+
+ -- Joe <joe@rstrike.my.id>  Sat, 26 Apr 2025 22:40:00 +0000
+
 ufonet (1.9-1) UNRELEASED; urgency=medium
 
   * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>

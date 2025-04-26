@@ -5,3 +5,4 @@ docs usr/local/Library/Applications/ufonet/
 maps usr/local/Library/Applications/ufonet/
 ufonet.py usr/local/Library/Applications/ufonet/
 setup.py usr/local/Library/Applications/ufonet/
+ufonet usr/local/Library/Applications/ufonet/

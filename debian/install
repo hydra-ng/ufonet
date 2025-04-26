@@ -1,7 +1,7 @@
-botnet usr/share/ufonet/
-core usr/share/ufonet/
-data usr/share/ufonet/
-docs usr/share/ufonet/
-maps usr/share/ufonet/
-ufonet.py usr/share/ufonet/
-setup.py usr/share/ufonet/
+botnet usr/local/Library/Applications/ufonet/
+core usr/local/Library/Applications/ufonet/
+data usr/local/Library/Applications/ufonet/
+docs usr/local/Library/Applications/ufonet/
+maps usr/local/Library/Applications/ufonet/
+ufonet.py usr/local/Library/Applications/ufonet/
+setup.py usr/local/Library/Applications/ufonet/
